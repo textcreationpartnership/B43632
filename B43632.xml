@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect and true copy of the severall grievances of the army under his Excellencie, Sir Thomas Fairfax. As it was presented at Saffron-Walden in Essex, unto Field-Marshall Gen. Skippon, Lieut. General Cromwel, Commissarie Gen. Ireton, and Colonel Fleetwood members of the House of Commons, and commissioners for the Parliament there, by [bracket] Col. Whaley, Col. Ingoldsby, Col. Hammond, Col. Rich. [bracket] Col. Lambert. Col. Okey. Col. Henson. Major Disborow Major Cowley. [bracket] With the names of above two hundred and forty commission-officers that did subscribe it, and presented in the House of Commons, by Lieutenant General Cromwel, and Col. Fleetwood; toget her [sic] with an order of the generals, to every regiment of horse and foot. Published at the instant desires of the officers of the army, to prevent mistakes which may arise from an imperfect copy already dispersed.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43632</idno><idno type="EEBO-CITATION">767618616</idno>
+  <idno type="VID">212625</idno>
+  <idno type="EEBO-PROQUEST">2240864142</idno>
+  
+            <idno type="OCLC"> 767618616</idno>
+            <idno type="OCLC">ocn 767618616</idno>
+            <idno type="STC">Wing P1472_VARIANT</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212625)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3023:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect and true copy of the severall grievances of the army under his Excellencie, Sir Thomas Fairfax. As it was presented at Saffron-Walden in Essex, unto Field-Marshall Gen. Skippon, Lieut. General Cromwel, Commissarie Gen. Ireton, and Colonel Fleetwood members of the House of Commons, and commissioners for the Parliament there, by [bracket] Col. Whaley, Col. Ingoldsby, Col. Hammond, Col. Rich. [bracket] Col. Lambert. Col. Okey. Col. Henson. Major Disborow Major Cowley. [bracket] With the names of above two hundred and forty commission-officers that did subscribe it, and presented in the House of Commons, by Lieutenant General Cromwel, and Col. Fleetwood; toget her [sic] with an order of the generals, to every regiment of horse and foot. Published at the instant desires of the officers of the army, to prevent mistakes which may arise from an imperfect copy already dispersed.</title>
+                  <author>Whalley, Edward.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for, George Whittington at the blew Anchor in Corn-hill neer the Royall Exchange,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. line 12 has "Commons" and line 23 has "toget[space]her."</note>
+                  <note>Imperfect: stained; print show-through.</note>
+                  <note>Reproduction of the original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term type="personal_name">Fleetwood, Charles, d. 1692 --  Early works to 1800.</term>
+               <term type="personal_name">Skippon, Philip, d. 1660 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Soldiers --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:212625:1"/>
+            <pb facs="tcp:212625:2"/>
+            <p> A Perfect and TRUE COPY OF THE Severall Grievances of the Army under his EXCELLENCIE, <hi>Sir Thomas Fairfax.</hi>
+            </p>
+            <p>As it was presented at Saffron-Walden in ESSEX, unto Field-Marshall Gen. Skippon, Lieut. General Cromwel, Commissarie Gen. Ireton, and Colonel Fleetwood Members of the House of Commons, and Commissioners for the Parliament there, BY</p>
+            <list>
+               <item>Colonel <hi>Whaley,</hi>
+               </item>
+               <item>Col. <hi>Ingoldsby,</hi>
+               </item>
+               <item>Col. <hi>Hammond.</hi>
+               </item>
+               <item>Col. <hi>Rich.</hi>
+               </item>
+               <item>Col. <hi>Lambert.</hi>
+               </item>
+               <item>Col. <hi>Okey.</hi>
+               </item>
+               <item>Col. <hi>Henson.</hi>
+               </item>
+               <item>Major <hi>Disborow</hi>
+               </item>
+               <item>Major <hi>Cowley.</hi>
+               </item>
+            </list>
+            <p>With the names of above two hundred and forty Commission-Officers that did subscribe it, and presented in the House of Commons, By Lieutenant General CROMWEL, and Col. FLEETWOOD; together with an Order of the Generals, to every Regiment of Horse and Foot.</p>
+            <p>
+               <hi>Published at the instant desires of the Officers of the Army, to prevent mistakes which may arise from an imperfect copy already dispersed.</hi>
+            </p>
+            <p>Printed for, <hi>George Whittington</hi> at the blew Anchor in Corn-hill, neer the Royall Exchange 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="grievances">
+            <pb facs="tcp:212625:3"/>
+            <head>To the right honourable Field-Marshall, Generall <hi>Skippon,</hi> Lieut. Gen. <hi>Cromwel,</hi> Comissary Generall <hi>Ireton,</hi> and Colonel <hi>Fleetwood.</hi>
+            </head>
+            <p>HAying received at the last convention of the Officers of this Army (at <hi>Walden)</hi> your commands and directions to our severall Regiments; First, for the publishing the Votes of the House of Commons for the satisfaction of the Army in poynt of Arrears and. Indemnity. And secondly, for a faithfull, diligent, and impartiall enquiry into the present temper and dispo<g ref="char:EOLhyphen"/>sition of the Army: In which, having accordingly (with diligence) endevoured to answer your expectation in what you have enjoyned us; we doe according to the best of our understandings, represent unto you▪ That we find both Officers and Soldiers at present, quiet, and free from any visible distemper: Neverthelesse are sensible of many pressing grievances, which they having orderly and quietly made known unto us, we humbly in their, and our behalves, repre<g ref="char:EOLhyphen"/>sent unto you as followeth.</p>
+            <p n="1">1. That whereas it pleased the honourable Houses of Parliament, having received information of a dangerous petition in the Army, to declare and immediatly publish in print to the Kingdome, That that Pitition (which indeed was but onely intended to be presented to the Generall with submission to his approbation) did tend to put the Army into distemper and mutiny to obstruct the reliefe of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and to put conditions upon the Parliament, and declaring the Petitioners, if they shall continue in their distempered condition, and goe on in promoting and advancing that Petition, shall be lookt up<g ref="char:EOLhyphen"/>on, and proceeded against as enemies to the State, and disturbers of the publicke peace. Which said information misrepresenting our in<g ref="char:EOLhyphen"/>tentions, hath caused that heavy charge which remains upon record, as a <hi>Memorandam</hi> of infamy upon us to posterity, wee cannot chuse but with saduesse of spirit, be deeply sensible, that so humble and in<g ref="char:EOLhyphen"/>nocent an addresse intended to the Generall, could beget so strange an interpreta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, the substance of those things which we intended to sue for therein, being no other then what the Parliament promised, and frequently confirmed unto us by their Declarations.</p>
+            <p n="2">2. That whereas those persons, who have by the foresaid Imfor<g ref="char:EOLhyphen"/>mation, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eemp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to our great prejudice, to beget misunderstandings
+<pb facs="tcp:212625:3"/> betwixt the Parliament and their Army, by their surreptitious ob<g ref="char:EOLhyphen"/>taining and misrepresenting our intention in the sayd Petition, and by divulging abroad scandalous letters from unknown hands, (the Authours whereof are concealed, and not brought forth to make ju<g ref="char:EOLhyphen"/>diciall proofes of those things laid to our charge, which wee cannot but looke upon as a just cause of griese, that the suggesters of such things seemed to prevaile so farre as to gain encouragement, and we who are innocent, remain unjustified in the eyes of the kingdome.</p>
+            <p n="4">4. That divers Officers of the Army of publick and known inte<g ref="char:EOLhyphen"/>grity, have been sent for to the Parliament, some whereof at this pre<g ref="char:EOLhyphen"/>sent attend there, and have had no triall, nor any thing considerable, that we know of, layd to their charge. And more particularly, That Ensigne <hi>Nichols,</hi> a member of this Army, hath been illegally impri<g ref="char:EOLhyphen"/>soned by Capt. <hi>Dormer,</hi> a late Officer of this Army, (but now enga<g ref="char:EOLhyphen"/>ged for <hi>Ireland)</hi> his Pockets search't, and his Papers taken from him, contrary to the Lawes of the Kingdome, or Discipline of warre, and since (by order of the Commissioners) sent from <hi>Derby-House</hi> to treat with the Army about the reliefe of <hi>Ireland,</hi> was sent to <hi>London,</hi> (without the Generals privity,) where hee is still kept prisoner) at great expences, and not brought to triall; which president may e<g ref="char:EOLhyphen"/>qually extend to any or all in the Army. Which said particular, bea<g ref="char:EOLhyphen"/>ring with it the face of delay and protraction, we cannot but look up<g ref="char:EOLhyphen"/>on as a just cause of trouble unto us.</p>
+            <p n="4">4. That whereas we understand, that the Parliament hath voted a sudden disbanding of the Army, not having made sufficient provi<g ref="char:EOLhyphen"/>sion for the auditing of our Arrears, and stating of our accounts so ful<g ref="char:EOLhyphen"/>ly, as we may not be liable to further charges concerning them, our own reason, and the experience of others, doth make us sensible, how difficult, chargeable, and uncertain the obtaining thereof will be after we are disbanding, and dispersed to our severall homes.</p>
+            <p n="5">5 That no provision hath been made for the payment of our dearly earned wages, to the expence of our blood, and often hazard of our lives; saving a vote of six weekes pay upon disbanding (now at the consummation of our work) which is so small, that it will ine<g ref="char:EOLhyphen"/>vitably expose us (especially the private Soldiers) to great extremity, being scarce sufficient to maintain many of them in their journey to their our homes.</p>
+            <p n="6">6 That nothing as yet hath been perfected for our future securi<g ref="char:EOLhyphen"/>ty for things done as Souldiers in relation to the warr, which the exi<g ref="char:EOLhyphen"/>gencie thereof, and diffiuclties therein, hath compelled, us unto the
+<pb facs="tcp:212625:4"/> want whereof we cannot chuse but be very sensible of, when we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onsider the many sad examples of bitter and rigorous prosecutions at Law, against Soldiers for acts done in order to the promotion of the Kingdomes service.</p>
+            <p n="7">7 That we stand in feare, (especially the private Soldiers) of be<g ref="char:EOLhyphen"/>ing impressed or inforced to serve as Soldiers out of the kingdome; many having spent themselves freely and voluntarily in the publicke service, forsaking their trades, and friends, and livelihoods; to which many desire to return again for their better future subsistence.</p>
+            <p n="8">8 That whereas divers of us (especially the privat Soldiers) who were Apprentices in <hi>London,</hi> or other parts of the Kingdome, have voluntarily engaged thtmselves in this service, being encouraged ther<g ref="char:EOLhyphen"/>unto by the Parliaments Declarations, shewing that the time they should so spend in the prosecution thereof, should be as effectuall in order to their Freedome, as if they had remained with their severall respective Masters. Notwithstanding which, many have refused to give us freedome, who may justly claim it by the aforesaid Declarati<g ref="char:EOLhyphen"/>ons for that purpose.</p>
+            <p n="9">9 That many Soldiers who have lost their lives, Widowes their Husbands, and Children their Parents, in this service, and thereby are reduced to great poverty, (even to beggery) are not sufficiently provided for a future livelihood.</p>
+            <p n="10">10 That whereas divers persons both privatly and publickly la<g ref="char:EOLhyphen"/>boured by evill aspersions and false calumnies to render us odious to the Kingdome, thereby seeking to alienate their affections from us; in order to which they have published many Books, <hi>viz.</hi> Ma. <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> his <hi>Gangraena,</hi> and divers others of that nature: and also very lately a report divulged abroad, that wee had petitioned his Majesty, inviting him to come to the head of the Army, and that wee would restore him to his Crowne, Throne and Dignity: A person of emi<g ref="char:EOLhyphen"/>nence averred before a very great and publick convention in the Ci<g ref="char:EOLhyphen"/>tie of <hi>London,</hi> that he saw a Copie of that Petition which was de<g ref="char:EOLhyphen"/>livered to his Majesty: And that the Army was no longer a New Modell, but had 4000. Cavaleers in it, that hee comming from the Fountaines head, perceived, that the King and Cavaleers, have their single and whole dependency upon this Army. And others privatly suggesting the same, by dispersing severall copies of the sayd preten<g ref="char:EOLhyphen"/>ded petition; the severall particulars whereof we protest against, as most false, and are most confident, that it proceeded not from any probable ground, which might argue such an intention in us, but singly from the malice of our enemies.</p>
+            <p n="11">
+               <pb facs="tcp:212625:4"/> 11. That notwithstanding the great care of the Committee and Treasurers for the Army, and the cheerfull readinesse of the most Counties in paying their Assesments, (as these where we now quar<g ref="char:EOLhyphen"/>ter geneaally affirme;) nneverthelesse through want of pay, the pri<g ref="char:EOLhyphen"/>vat soldiers are necessitated to take free quarter for the present, which is very irksome to be so burdensome to the kingdome.</p>
+            <p>Having thus according to your commands, as fully as we are able, accounted unto you what is the true genuine sense of the Army, and not their imaginary, but reall grievances which inevitably fall up<g ref="char:EOLhyphen"/>on us, except the Parliament in their wisdomes take some effectuall course to prevent them; and as we, if the time allowed to us by you, would permit, we could clearly demonstrate unto you: we therefore assume the boldnesse to desire you to bee sensible with us, of▪ what we have offered unto you, and to present unto the Parliament the particulars aforesayd, in such humble way and manner as you con<g ref="char:EOLhyphen"/>ceive most effectuall to the accomplishment of our future quiet, and well-being: That you will doe us right if in case any of our acti<g ref="char:EOLhyphen"/>ons be misrepresented to the Parliament: That you will (as farre as justly you can) cover our weaknesse, if any thing of that nature hath stippt us in the transaction of this so weighty and considerable an importance, which we the more boldly desire of you, because we are confident, that the integrity of our hearts is not hid from you, and which we doubt not, but will clearly appeare, (notwithstanding the malice, or secret workings of any person whatsoever seeking to a<g ref="char:EOLhyphen"/>sperse us, when our proceedings herein shall be throughly enquired into.) And if any thing expressed herein, may appeare or bee under<g ref="char:EOLhyphen"/>stood otherwise, by the Honorable Houses of Parliament, we desire you will declare the mind and sense of us all; which is that we have endevoured to our utmost in all our expressions, to avoyd things which might offend, or in the least manner intrench upon the honour and authourity of the Parliament, for which wee have adventuaed all we have in this world that is deare unto us. But if any reflection may seem to touch upon some particulars, our intentions are no other, then towards those who have abused the Parliament, Kingdome, and a faithfull Army.</p>
+            <div type="list_of_signatures">
+               <pb facs="tcp:212625:5"/>
+               <head>A List of the severall respective Officers interested herein.</head>
+               <list>
+                  <head>Collonels.</head>
+                  <item>Robert Hammond.</item>
+                  <item>Io. Lambert</item>
+                  <item>Richard Engolesby</item>
+                  <item>Edward Whalley</item>
+                  <item>Jo: Okey.</item>
+                  <item>Io: Hewson</item>
+                  <item>Nathaniel Rich</item>
+               </list>
+               <list>
+                  <head>Lieut. Collonels.</head>
+                  <item>Isaac Ewer.</item>
+                  <item>Marke Grime</item>
+                  <item>Tho: Pride</item>
+                  <item>Edw. Salmon</item>
+                  <item>Tho. Reade</item>
+                  <item>Io. Iubbs</item>
+               </list>
+               <list>
+                  <head>Majors.</head>
+                  <item>Thomas Smith.</item>
+                  <item>Wroth Rogers.</item>
+                  <item>Io: Wade</item>
+                  <item>Dan: Axtell</item>
+                  <item>Io: Desborough.</item>
+                  <item>Ad: Scroope</item>
+                  <item>Geo: Sedacive</item>
+                  <item>Ro: Huntington</item>
+                  <item>Thomas Horton</item>
+                  <item>Ro: Swallow</item>
+                  <item>William Cowell.</item>
+               </list>
+               <list>
+                  <head>Captaines.</head>
+                  <item>Iohn Reynolds.</item>
+                  <item>Tho. Disney</item>
+                  <item>Io. Pitchford</item>
+                  <item>Io. Carter.</item>
+                  <item>Hen. Binfield</item>
+                  <item>Sam. Grames</item>
+                  <item>Dan. Dale.</item>
+                  <item>Io. Grove.</item>
+                  <item>William Rainborough</item>
+                  <item>Walter Bethell</item>
+                  <item>Tho. Ireton</item>
+                  <item>William Coleman</item>
+                  <item>William Evanson</item>
+                  <item>Azariah Husbands</item>
+                  <item>Sam. Gardiner</item>
+                  <item>Ben. Burgesse</item>
+                  <item>William Streeteham</item>
+                  <item>Jo. Jenkins</item>
+                  <item>Hen. Pritty</item>
+                  <item>Rich. Zanchy</item>
+                  <item>Hen. Cannon</item>
+                  <item>Tho. Pennifather</item>
+                  <item>Jo. Spooner</item>
+                  <item>Io. Gladman <hi>Captaine</hi>
+                  </item>
+                  <item>
+                     <hi>Lieutenant.</hi>
+                  </item>
+                  <item>William Reade</item>
+                  <item>Ro. Kerby <hi>Cap. Lieut.</hi>
+                  </item>
+                  <item>Rich. Aske</item>
+                  <item>Tobias Bridges</item>
+                  <item>Jo. Clarke</item>
+                  <item>Edm. Rolfe</item>
+                  <item>Joseph Blisset</item>
+                  <item>Oriell Smith</item>
+                  <item>Rich. Hodden</item>
+                  <item>Ro. Gibbon</item>
+                  <item>Hen. Davis</item>
+                  <item>Lewis Awdeley <hi>Cap<g ref="char:EOLhyphen"/>taine Lieutenant.</hi>
+                  </item>
+                  <item>Io. Wallington <hi>Cap<g ref="char:EOLhyphen"/>taine Lieutenant.</hi>
+                  </item>
+                  <item>Edw. Orpin</item>
+                  <item>Ro. Anderson</item>
+                  <item>Tho. Hawes <hi>Cap. Lieu.</hi>
+                  </item>
+                  <item>Giles Sanders</item>
+                  <item>Rich. Sanders.</item>
+                  <item>Iohn Shrimpton <hi>Cap<g ref="char:EOLhyphen"/>taine Lieutenant.</hi>
+                  </item>
+                  <item>Francis Allen</item>
+                  <item>Io. Grime</item>
+                  <item>Ia. Iarmin</item>
+                  <item>Tho. Price</item>
+                  <item>Fra. Hawes</item>
+                  <item>Wil. Arnop <hi>Cap. Lieu.</hi>
+                  </item>
+                  <item>Mat. Cadwell</item>
+                  <item>Io. Biscoe</item>
+                  <item>Sam. Rose</item>
+                  <item>Will. Weare. <hi>Capt.</hi>
+                  </item>
+                  <item>
+                     <hi>Lieu.</hi> Re. Read</item>
+                  <item>Io. Toppenden</item>
+                  <item>Alex. Brafield</item>
+                  <item>William Goffe</item>
+                  <item>Tho. Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sons</item>
+                  <item>George Gregson</item>
+                  <item>Roger Alsop</item>
+                  <item>Ioseph Salkeild</item>
+                  <item>Waldoff Lagoe</item>
+                  <item>Io: Mason</item>
+                  <item>Hen: Lilburne</item>
+                  <item>Abraham Holmes</item>
+                  <item>Ier: Iolehurst</item>
+                  <item>Amos Stoddar.</item>
+               </list>
+               <list>
+                  <head>Lieutenants.</head>
+                  <item>Griffith I. Loyde.</item>
+                  <item>Edw: Scotton</item>
+                  <item>Tho: Sheares</item>
+                  <item>Nat: Wight</item>
+                  <item>Ben: Gifford</item>
+                  <item>Sampson Toogood</item>
+                  <item>Hen: Johnson</item>
+                  <item>Iohn Merriman</item>
+                  <item>Hen: Martin</item>
+                  <item>Edm: Chillenden</item>
+                  <item>George Ensor.</item>
+                  <pb facs="tcp:212625:5"/>
+                  <item> George Elsemore.</item>
+                  <item>Tho. Aldridge</item>
+                  <item>Io: Peck</item>
+                  <item>Io: Franke</item>
+                  <item>Gelm: Taylor</item>
+                  <item>Stephen White</item>
+                  <item>Io: Barrow</item>
+                  <item>Rich: Kempe</item>
+                  <item>Rich: Mosse</item>
+                  <item>Ralph Parker</item>
+                  <item>Martin Jubbs</item>
+                  <item>Thomas Ellis</item>
+                  <item>Philo Price</item>
+                  <item>Io: Hawes</item>
+                  <item>Io: Clarke</item>
+                  <item>Ro: Tayler</item>
+                  <item>Io: Friend</item>
+                  <item>Rich: Tompson</item>
+                  <item>Io: Savage</item>
+                  <item>Tho: Camberlaine</item>
+                  <item>George Smith</item>
+                  <item>Ralph Gale</item>
+                  <item>Nat: Chasse</item>
+                  <item>Ralph Willson</item>
+                  <item>Io: Watson</item>
+                  <item>Io: Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kins</item>
+                  <item>Lewis Norcot</item>
+                  <item>William Farley</item>
+                  <item>Brian Smith</item>
+                  <item>Ale. Davis</item>
+                  <item>Ro: Lewis</item>
+                  <item>Io: Toppen</item>
+                  <item>Hugh Ienkin</item>
+                  <item>Io: Nichola</item>
+                  <item>Edw: Dorney</item>
+                  <item>Io: Miller</item>
+                  <item>Iames Clarke</item>
+                  <item>Edw: Farmer</item>
+                  <item>Thomas Day</item>
+                  <item>Randal Warner.</item>
+                  <item>Wil: G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uge</item>
+                  <item>Wil: Skelley</item>
+                  <item>Etherlbert Morgan</item>
+                  <item>Adrian Arwood</item>
+                  <item>Ienkin Beven</item>
+                  <item>George Jenkin</item>
+                  <item>Wil: Hill</item>
+                  <item>Io: Ward<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Tho: Barker</item>
+                  <item>Ed: Singeleton</item>
+                  <item>Io: Freind</item>
+                  <item>Rich: Tompson</item>
+                  <item>Tho: Cassinghurst</item>
+                  <item>Andr: Edwards</item>
+                  <item>Sam: Axtell</item>
+                  <item>Fran: Wheeler</item>
+                  <item>Iohn Potter</item>
+               </list>
+               <list>
+                  <head>Cornets.</head>
+                  <item>Wil: Barrington</item>
+                  <item>Ioh: Fox</item>
+                  <item>Rich: Southwood.</item>
+                  <item>Tho: Barkley</item>
+                  <item>Edm: Winstanly</item>
+                  <item>Wil: Whittington</item>
+                  <item>Io: Sabberton</item>
+                  <item>George Joyce</item>
+                  <item>Chry: Kember</item>
+                  <item>Io: Corde</item>
+                  <item>George Tracy</item>
+                  <item>Wil: Beuck</item>
+                  <item>Io: Clarke</item>
+                  <item>Wil: Leadbrooke</item>
+                  <item>Peter Wallis</item>
+                  <item>Samuel Packer</item>
+                  <item>Hen: Mills</item>
+                  <item>Io: Southwood</item>
+                  <item>James Wilson</item>
+                  <item>Io: Spencer</item>
+                  <item>Richard Webb</item>
+                  <item>Cha: Whitehead</item>
+                  <item>Abel Warren.</item>
+                  <item>Anth: Lacon</item>
+                  <item>Wil: Lurna</item>
+                  <item>Sammuel Boalley.</item>
+               </list>
+               <list>
+                  <head>Ensignes.</head>
+                  <item>Cha: Bol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on <hi>Ensigne</hi>
+                  </item>
+                  <item>
+                     <hi>to the Generall.</hi>
+                  </item>
+                  <item>Robert Smith</item>
+                  <item>George Clarke</item>
+                  <item>Wil: Jones</item>
+                  <item>Jer: Hand</item>
+                  <item>Samuel Bince</item>
+                  <item>Ro: Belded</item>
+                  <item>Tho: Rawli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</item>
+                  <item>Je<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: Camfield</item>
+                  <item>Tho: Newman</item>
+                  <item>Evan Jones</item>
+                  <item>Hen: Cedwath</item>
+                  <item>Fardmando Greene</item>
+                  <item>George Neckthey</item>
+                  <item>Francis Farmer</item>
+                  <item>Hen: Williams</item>
+                  <item>Tho: Lewis</item>
+                  <item>Rich: Bourne</item>
+                  <item>Wil: Joyce</item>
+                  <item>Wil: Galhampton</item>
+                  <item>Rob: Banning</item>
+                  <item>Wil: Everard</item>
+                  <item>Io: Mason</item>
+                  <item>Wil: Cooper</item>
+                  <item>Downehalt Gregory.</item>
+                  <item>Abinam Spooner</item>
+                  <item>Wil: Beard.</item>
+                  <item>Samuel Chase</item>
+                  <item>Edw: Evans</item>
+                  <item>Jo: Bishop</item>
+                  <item>Fra: Litler</item>
+                  <item>William Diisney</item>
+                  <item>Jo: Ward</item>
+                  <item>Richard Essex:</item>
+                  <pb facs="tcp:212625:6"/>
+                  <item> Thomas Chambers</item>
+                  <item>Jo: Brett</item>
+                  <item>Abell Warren</item>
+               </list>
+               <list>
+                  <head>Quartermasters.</head>
+                  <item>William Williams</item>
+                  <item>James Goodwin</item>
+                  <item>Cales Leigh</item>
+                  <item>William Miller</item>
+                  <item>George Sanders.</item>
+                  <item>Rich Slaynor</item>
+                  <item>Edw: Warren</item>
+                  <item>Thomas Savage</item>
+                  <item>Nath: Chedi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Phylip Ramsey</item>
+                  <item>Thomas Stewart</item>
+                  <item>Io: Ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</item>
+                  <item>Ro: Agard</item>
+                  <item>Io: Kennet</item>
+                  <item>Hen: Ward</item>
+                  <item>Io: D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</item>
+                  <item>Thomas Ward</item>
+                  <item>Philip Joanes</item>
+                  <item>Richard Hunt.</item>
+               </list>
+            </div>
+            <div type="response">
+               <p>I Desire you forthwith to take Order, that notice be given to the severall Companies of your Regiment, that the greivances of the Army were on <hi>Fryday</hi> last presented to the House of Commons, and are by them admitted to be heard and taken into consideration. I do therefore require the Souldiers to forbeare any further actings by themselves without their Officiers in any irreguler wayes: And all Officers are strictliy to see to it in their severall charges, that there be no more such meetings or consultations of Souldiers at <hi>Bury</hi> or elsewhere.</p>
+               <closer>
+                  <signed>THOMAS FAIRFAX.</signed>
+                  <hi>To let Collonel Iackson, or the Officer in chiefe with the Regiment.</hi>
+               </closer>
+            </div>
+            <div type="postscript">
+               <opener>
+                  <salute>Courteous Reader,</salute>
+               </opener>
+               <p>I Have one word to say to thee, and that is to tell thee, that a very imperfect Copy of our greivances was surreptiously got, and as sodainly and unadvisedly printed; which Copy was not the Armies, and therefore to prevent all mistakes, and to shew to all the world, especially to the Parliament and this Kingdome, that there is no va<g ref="char:EOLhyphen"/>riance nor distemper in the Army, as some fondly gather from that false Copy but altogether love and amity, and so I rest the Servant of the Parliament and Kingdome.</p>
+               <closer>
+                  <signed>E. Ch. Lieutenant.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
